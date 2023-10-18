@@ -1,0 +1,199 @@
+{
+	"cars": [
+		{
+			"brand": "Bentley",
+			"name": "F-150",
+			"colors": ["orange"],
+			"price": 62483,
+			"id": 1
+		},
+		{
+			"brand": "Audi",
+			"name": "Model X",
+			"colors": ["white"],
+			"price": 57254,
+			"id": 2
+		},
+		{
+			"brand": "Chevrolet",
+			"name": "LeBaron",
+			"colors": ["gold"],
+			"price": 21700,
+			"id": 3
+		},
+		{
+			"brand": "Porsche",
+			"name": "Countach",
+			"colors": ["pink"],
+			"price": 50307,
+			"id": 4
+		},
+		{
+			"brand": "Toyota",
+			"name": "XC90",
+			"colors": ["sky blue"],
+			"price": 39464,
+			"id": 5
+		},
+		{
+			"brand": "Maserati",
+			"name": "LeBaron",
+			"colors": ["orange"],
+			"price": 71612,
+			"id": 6
+		},
+		{
+			"brand": "Aston Martin",
+			"name": "Challenger",
+			"colors": ["black"],
+			"price": 50470,
+			"id": 7
+		},
+		{
+			"brand": "Ferrari",
+			"name": "Ranchero",
+			"colors": ["orange"],
+			"price": 29775,
+			"id": 8
+		},
+		{
+			"brand": "Rolls Royce",
+			"name": "Element",
+			"colors": ["azure"],
+			"price": 71260,
+			"id": 9
+		},
+		{
+			"brand": "Honda",
+			"name": "Escalade",
+			"colors": ["sky blue"],
+			"price": 18013,
+			"id": 10
+		},
+		{
+			"brand": "Mercedes Benz",
+			"name": "F-150",
+			"colors": ["tan"],
+			"price": 25333,
+			"id": 11
+		},
+		{
+			"brand": "Jeep",
+			"name": "Mercielago",
+			"colors": ["silver"],
+			"price": 49777,
+			"id": 12
+		},
+		{
+			"brand": "Porsche",
+			"name": "CTS",
+			"colors": ["plum"],
+			"price": 70409,
+			"id": 13
+		},
+		{
+			"brand": "Bugatti",
+			"name": "Volt",
+			"colors": ["green"],
+			"price": 67174,
+			"id": 14
+		},
+		{
+			"brand": "Mazda",
+			"name": "Altima",
+			"colors": ["azure"],
+			"price": 42621,
+			"id": 15
+		},
+		{
+			"brand": "Toyota",
+			"name": "Volt",
+			"colors": ["grey"],
+			"price": 62414,
+			"id": 16
+		},
+		{
+			"brand": "Dodge",
+			"name": "A8",
+			"colors": ["ivory"],
+			"price": 44528,
+			"id": 17
+		},
+		{
+			"brand": "Mercedes Benz",
+			"name": "Fiesta",
+			"colors": ["lavender"],
+			"price": 10624,
+			"id": 18
+		},
+		{
+			"brand": "Fiat",
+			"name": "Colorado",
+			"colors": ["lavender"],
+			"price": 29804,
+			"id": 19
+		}
+	],
+	"users": [
+		{
+			"gender": "female",
+			"firstName": "Raquel",
+			"lastName": "Schulist",
+			"carId": 14
+		},
+		{
+			"gender": "female",
+			"firstName": "Julie",
+			"lastName": "Monahan",
+			"carId": 6
+		},
+		{
+			"gender": "male",
+			"firstName": "Stuart",
+			"lastName": "Kiehn",
+			"carId": 17
+		},
+		{
+			"gender": "female",
+			"firstName": "Sue",
+			"lastName": "Okuneva",
+			"carId": 10
+		},
+		{
+			"gender": "male",
+			"firstName": "Nathan",
+			"lastName": "Rogahn",
+			"carId": 1
+		},
+		{
+			"gender": "male",
+			"firstName": "Ervin",
+			"lastName": "Windler",
+			"carId": 5
+		},
+		{
+			"gender": "male",
+			"firstName": "Benjamin",
+			"lastName": "Murazik-Aufderhar",
+			"carId": 1
+		},
+		{
+			"gender": "female",
+			"firstName": "Dorothy",
+			"lastName": "Pouros",
+			"carId": 2
+		},
+		{
+			"gender": "male",
+			"firstName": "Ricardo",
+			"lastName": "Price",
+			"carId": 10
+		},
+		{
+			"gender": "female",
+			"firstName": "Lorena",
+			"lastName": "Bosco",
+			"carId": 8
+		}
+	]
+}

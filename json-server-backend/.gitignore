@@ -1,0 +1,3 @@
+# .env
+# Make sure to re-add the .env to the ignore list.
+node_modules
